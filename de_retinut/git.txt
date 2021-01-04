@@ -1,0 +1,22 @@
+
+(!) Conectare cont git
+-> "git config --global user.name "nume""
+-> "git config --global user.email "email_github""
+
+
+
+----> Pasi daca avem creat deja repository pe site
+    -> "git clone <url>"
+    -> "git status"
+    -> "git add <file name, . pt toate>"
+    -> "git commit -m "mesaj""
+    -> "git push"
+
+
+----> Pasi pentru a urca un repository din PC
+    -> "git init"
+    -> "git remote add origin <url>"
+    -> "git status"
+    -> "git add <file_name, '.' pt toate>"
+    -> "git commit -m "mesaj""
+    -> "git push"
