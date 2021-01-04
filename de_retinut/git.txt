@@ -18,5 +18,5 @@
     -> "git remote add origin <url>"
     -> "git status"
     -> "git add <file_name, '.' pt toate>"
-    -> "git commit -m "mesaj""
+    -> "git commit -m "mesaj"" 
     -> "git push"
